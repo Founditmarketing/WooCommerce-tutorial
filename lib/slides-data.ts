@@ -283,7 +283,7 @@ export const slides: SlideData[] = [
   {
     id: 17,
     title: "Congratulations, You're All Set!",
-    body: "This is now your new automated workflow. Great job on completing this setup! \n\nIf you have any other questions or need further assistance, please don't hesitate to contact us at Foundit Marketing. We're here to help!",
+    body: "This is now your new automated workflow. Great job on completing this setup! \n\nWe've customized your WooCommerce email notifications to guide your customers through the self-tracking process, but we also recommend letting them know about this new portal yourself to ensure they feel supported. If you have any other questions or need further assistance, please don't hesitate to contact us at Foundit Marketing. We're here to help!",
     logo: "/cropped-VLogo.png",
   },
 ]
