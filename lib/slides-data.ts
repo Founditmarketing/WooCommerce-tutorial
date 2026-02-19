@@ -32,7 +32,7 @@ export const slides: SlideData[] = [
     id: 2,
     phase: "Phase 1",
     title: "Taking the Order & Automation",
-    body: "The first part of the process is what you've always done: simply ring up the customer in Square. \n\nNow, the moment the payment is complete, Zapier automatically creates a matching order in your WooCommerce system and shoots out an automated email to your client with their 5-digit tracking number. \n\nThe following slides will explain how you can manage these orders right from your phone using the WooCommerce app.",
+    body: "The first part of the process is simple: ring up the customer in Square as usual.\n\n**CRITICAL STEP**: You must get the customer's email and input it into Square. Without an email, the order cannot be automatically created in WooCommerce and the automated tracking message will not be sent.\n\nOnce the email is entered and payment is complete, Zapier handles the rest—instantly creating the order and sending your client their 5-digit tracking number.",
   },
   {
     id: 3,
