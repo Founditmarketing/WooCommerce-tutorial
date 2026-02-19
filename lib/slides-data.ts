@@ -25,7 +25,7 @@ export const slides: SlideData[] = [
     id: 1,
     title: "The Complete Daily Workflow",
     subtitle: "From Square to the App",
-    body: "This automated system connects your register to your website so customers can track their own orders.",
+    body: "This automated system connects your register to your website so customers can track their own orders. We'll be using the WooCommerce app as the powerful tool to manage these orders and keep your customers updated in real-time.",
     logo: "/cropped-VLogo.png",
   },
   {
